@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christina Nguyen</h1>
-<h3 align="center">A prospective frontend developer, currently studying computer science at UCF.</h3>
+<h3 align="center">A prospective software engineer, currently studying computer science at UCF.</h3>
 
-- 🔭 I recently finished developing a [Workout Planner and Tracker App](https://github.com/conroyr41/Workout-Tracker).
+- 🔭 I am currently working on my Undergraduate Research Project [LLM Cube Stacking Project](https://github.com/christina8711/llm_cubestacking).
 
-- 📫 How to reach me: **nguyenc21@knights.ucf.edu**.
+- 📫 How to reach me: **Ch487674@ucf.edu**.
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -26,6 +26,9 @@
 </p>
 
 <h1 align="center">My Projects</h1>
+
+### LLM Cube Stacking Research Project ([Repo](https://github.com/christina8711/llm_cubestacking))
+As a UCF undergraduate researcher, I am utilizing the OpenAI, also known as ChatGPT-4 API, in conjunction with Python scripts to assess and compare its capabilities in common sense reasoning with ChatGPT-3.5. My undergraduate research project focuses on assessing the capabilities of LLM (Large Language Model) and VLM (Very Large Language Model) in cube stacking for common-sense planning challenges. 
 
 ### Workout Planner and Tracker App ([Repo](https://github.com/conroyr41/Workout-Tracker))
 Get a personalized workout plan based on your fitness goals and physique. This plan will track your completed workouts and allow you to take pictures of yourself to visually check your progress. 
